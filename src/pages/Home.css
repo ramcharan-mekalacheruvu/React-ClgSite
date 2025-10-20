@@ -1,0 +1,39 @@
+.home {
+  background: url("../assets/images/college-campus.avif") center/cover no-repeat;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+
+.hero h1 {
+    color:#2d2d2c;
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.hero p {
+    color:#2d2d2c;
+  font-size: 18px;
+  max-width: 600px;
+  margin: 0 auto 25px;
+}
+
+.explore-btn {
+  background: #ffcc00;
+  color: black;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.explore-btn:hover {
+  background: #003366;
+  color: white;
+}

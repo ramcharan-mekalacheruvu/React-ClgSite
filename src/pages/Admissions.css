@@ -1,0 +1,20 @@
+.admission-steps {
+  text-align: left;
+  max-width: 600px;
+  margin: 30px auto;
+  line-height: 1.8;
+}
+
+.apply-btn {
+  background: #003366;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.apply-btn:hover {
+  background: #ffcc00;
+  color: black;
+}
