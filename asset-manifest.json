@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-ClgSite/static/css/main.cadf4f98.css",
+    "main.js": "/React-ClgSite/static/js/main.cd305554.js",
+    "static/js/453.d6e0bbe8.chunk.js": "/React-ClgSite/static/js/453.d6e0bbe8.chunk.js",
+    "static/media/college-campus.avif": "/React-ClgSite/static/media/college-campus.c50a42493cdb8d699eb3.avif",
+    "index.html": "/React-ClgSite/index.html",
+    "main.cadf4f98.css.map": "/React-ClgSite/static/css/main.cadf4f98.css.map",
+    "main.cd305554.js.map": "/React-ClgSite/static/js/main.cd305554.js.map",
+    "453.d6e0bbe8.chunk.js.map": "/React-ClgSite/static/js/453.d6e0bbe8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cadf4f98.css",
+    "static/js/main.cd305554.js"
+  ]
+}
